@@ -4,7 +4,7 @@ By Abdullah
 ---
 ## Struggles/obstacles and notes
 Understanding the JavaScript is the toughest part such as, creating paths from the animals.js to the client.js.
-The rest was simplified because there was comments on what to do making it much more clear on what was to be done.
+The rest was simplified because there was comments on what was to be done step by step.
 Making the gallery look good through css took the rest of the time.     
 
 ---
